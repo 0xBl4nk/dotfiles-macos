@@ -1,0 +1,3 @@
+function fix-keyboard
+    setxkbmap us -variant intl
+end
