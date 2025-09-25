@@ -1,6 +1,10 @@
 # Checks 
 ATUIM
 
+# tools
+fisher # fish
+tpm # tmux
+
 #CLI
 eza
 fzf
@@ -11,6 +15,12 @@ zoxide
 ghostty
 zen-browser
 claude
+vencord+vesktop
 
 # fonts
 jet-brains mono
+
+# Themes
+#
+# Rosé Pine
+# starship
